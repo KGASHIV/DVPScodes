@@ -1,0 +1,7 @@
+#!/bin/bash
+export color = red
+if [$color == red ]; then
+        echo "expected color"
+else
+        echo "wrong color"
+fi
